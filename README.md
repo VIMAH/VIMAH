@@ -10,9 +10,9 @@
 
 - 👨‍🏫 available for tutoring **VO, PO & IT**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at Coming soon!!
 
-- 📜 other interests [Football, games & cars](Football, games & cars)
+- 📜 other interests Football, games & cars
 
 - 💬 Ask me about **Back-end**
 
