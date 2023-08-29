@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **C++ & Solidity**
 
-- 👨‍🏫 available for tutoring **VO, PO & IT**
+- 👨‍🏫 available as **Web developer**
 
-- 👨‍💻 All of my projects are available at Coming soon!!
+- 👨‍💻 All of my projects are available: Coming soon!!
 
 - 📜 other interests Football, games & cars
 
