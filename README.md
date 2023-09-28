@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimah&label=Profile%20views&color=0e75b6&style=flat" alt="vimah" /> </p>
 
-- 👨🏻‍💻 I’m currently working in the [education sector 📚](as Teacher)
+- 👨🏻‍💻 I’m currently working at https://www.rijkswaterstaat.nl/ as intern
 
 - 🌱 I’m currently learning **C++ & Solidity**
 
