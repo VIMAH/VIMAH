@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimah&label=Profile%20views&color=0e75b6&style=flat" alt="vimah" /> </p>
 
-- 👨🏻‍💻 I’m currently working at https://www.rijkswaterstaat.nl/ as intern
+- 👨🏻‍💻 I’m currently working at https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/water-verkeer-en-leefomgeving as working student
 
-- 🌱 I’m currently learning **C++ & Solidity**
+- 🌱 I’m currently learning **Solidity & Flow**
 
 - 👨‍🏫 available as **Web developer**
 
 - 👨‍💻 All of my projects are available: Coming soon!!
 
-- 📜 other interests Football, games & cars
+- 📜 other interests Cars, games and blockchain technology
 
 - 💬 Ask me about **Back-end**
 
