@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimah&label=Profile%20views&color=0e75b6&style=flat" alt="vimah" /> </p>
 
-- 👨🏻‍💻 I’m currently working at <a href="https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/water-verkeer-en-leefomgeving">Rijkswaterstaat VWL</a> as working student
+- 👨🏻‍💻 I’m currently working at <a href="https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/water-verkeer-en-leefomgeving">Rijkswaterstaat WVL </a> as working student
 
 - 🌱 I’m currently learning **Solidity & Flow**
 
