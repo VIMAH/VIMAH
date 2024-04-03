@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 I’m currently working at <a href="https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/water-verkeer-en-leefomgeving">Rijkswaterstaat WVL</a> as working student
 
-- 🌱 I’m currently learning **Solidity & Flow**
+- 🌱 I’m currently learning **Solidity & Cadence**
 
 - 👨‍🏫 available as **Web developer**
 
