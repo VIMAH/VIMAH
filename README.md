@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Vinay%20Mahadew&fontSize=40&fontAlignY=40&desc=Software%20Engineering%20Student%20at%20THUAS&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Vinay%20Mahadew&fontSize=40&fontAlignY=35&desc=Software%20Engineering%20Student%20at%20THUAS&descAlignY=70&descAlign=50)
 
 </div>
 
@@ -40,25 +40,6 @@
 <span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">THUAS</span>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
-<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">Work:</span>
-<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Rijkswaterstaat WVL</span>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
-<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">Learning:</span>
-<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">TypeScript & Rust</span>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
-<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">Available:</span>
-<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Web Developer</span>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; gap: 10px;">
-<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">Interests:</span>
-<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Cars, Games, Blockchain</span>
-</div>
 
 </div>
 
@@ -88,7 +69,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimah&show_icons=true&theme=default&hide_border=true&bg_color=d9d9d9&title_color=2E86AB&text_color=333333&icon_color=2E86AB)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimah&layout=compact&theme=default&hide_border=true&bg_color=d9d9d9&title_color=2E86AB&text_color=333333)
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimah&layout=compact&theme=default&hide_border=true&bg_color=d9d9d9&title_color=2E86AB&text_color=333333&langs_count=10)
 
 </div>
 
@@ -104,31 +85,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-<div style="background: rgba(79, 70, 229, 0.1); border: 1px solid rgba(79, 70, 229, 0.2); border-radius: 12px; padding: 20px; margin-top: 20px; backdrop-filter: blur(10px); width: 100%; max-width: 100%;">
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
-<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">🌱 Learning:</span>
-<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">TypeScript & Rust</span>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
-<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">💻 Available as:</span>
-<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Web Developer</span>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
-<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">🔧 Working with:</span>
-<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Back-end Development</span>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; gap: 10px;">
-<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">📧 Contact:</span>
-<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">vinaymahadew.01@gmail.com</span>
-</div>
-
-</div>
 
 ---
 
