@@ -18,16 +18,49 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-Name: Vinay Mahadew
-Role: Software Engineering Student
-Location: Netherlands
-Education: THUAS
-Work: Rijkswaterstaat WVL (Working Student)
-Learning: TypeScript & Rust
-Available: Web Developer
-Interests: Cars, Games, Blockchain Technology
-```
+<div style="background: rgba(79, 70, 229, 0.1); border: 1px solid rgba(79, 70, 229, 0.2); border-radius: 12px; padding: 20px; margin-top: 20px; backdrop-filter: blur(10px); width: 100%; max-width: 100%;">
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">Name:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Vinay Mahadew</span>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">Role:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Software Engineering Student</span>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">Location:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Netherlands</span>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">Education:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">THUAS</span>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">Work:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Rijkswaterstaat WVL</span>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">Learning:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">TypeScript & Rust</span>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">Available:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Web Developer</span>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">Interests:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Cars, Games, Blockchain</span>
+</div>
+
+</div>
 
 ---
 
@@ -73,12 +106,27 @@ Interests: Cars, Games, Blockchain Technology
 
 ## 🎯 Current Focus
 
-<div align="center" style="background-color: #d9d9d9; padding: 20px; border-radius: 10px; border-left: 5px solid #2E86AB;">
+<div style="background: rgba(79, 70, 229, 0.1); border: 1px solid rgba(79, 70, 229, 0.2); border-radius: 12px; padding: 20px; margin-top: 20px; backdrop-filter: blur(10px); width: 100%; max-width: 100%;">
 
-**🌱 Learning:** TypeScript & Rust  
-**💻 Available as:** Web Developer  
-**🔧 Working with:** Back-end Development  
-**📧 Contact:** vinaymahadew.01@gmail.com  
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">🌱 Learning:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">TypeScript & Rust</span>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">💻 Available as:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Web Developer</span>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1); gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">🔧 Working with:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Back-end Development</span>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">📧 Contact:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">vinaymahadew.01@gmail.com</span>
+</div>
 
 </div>
 
@@ -86,10 +134,17 @@ Interests: Cars, Games, Blockchain Technology
 
 ## 🎲 Fun Fact
 
-<div align="center" style="background-color: #d9d9d9; padding: 20px; border-radius: 10px; border-left: 5px solid #2E86AB;">
+<div style="background: rgba(79, 70, 229, 0.1); border: 1px solid rgba(79, 70, 229, 0.2); border-radius: 12px; padding: 20px; margin-top: 20px; backdrop-filter: blur(10px); width: 100%; max-width: 100%;">
 
-> *"I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it"*  
-> **- Bill Gates**
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">💡 Quote:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">"I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it"</span>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; gap: 10px;">
+<span style="color: #d1d5db; font-weight: 600; font-size: 1rem;">👤 Author:</span>
+<span style="color: #ffffff; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Bill Gates</span>
+</div>
 
 </div>
 
