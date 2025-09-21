@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Vinay%20Mahadew&fontSize=40&fontAlignY=35&desc=Software%20Engineering%20Student%20at%20THUAS&descAlignY=70&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Vinay%20Mahadew&fontSize=40&fontAlignY=35&desc=Software%20Engineer/Architect&descAlignY=70&descAlign=50)
 
 </div>
 
