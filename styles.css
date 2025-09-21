@@ -1,0 +1,143 @@
+/* GitHub Profile Styles */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #0d1117;
+    color: #ffffff;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header Section */
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Profile Info Card */
+.profile-card {
+    background: rgba(79, 70, 229, 0.1);
+    border: 1px solid rgba(79, 70, 229, 0.2);
+    border-radius: 12px;
+    padding: 20px;
+    margin-top: 20px;
+    backdrop-filter: blur(10px);
+    width: 100%;
+    max-width: 100%;
+}
+
+.profile-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    gap: 10px;
+}
+
+.profile-row:last-child {
+    border-bottom: none;
+}
+
+.profile-label {
+    color: #d1d5db;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.profile-value {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1rem;
+    font-family: 'Courier New', monospace;
+    text-align: right;
+    flex-shrink: 1;
+    word-break: break-all;
+    min-width: 0;
+    letter-spacing: 0.5px;
+}
+
+/* Tech Stack Section */
+.tech-stack {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.tech-badges {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+/* GitHub Stats Section */
+.github-stats {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.stats-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+/* Snake Animation Section */
+.snake-section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Fun Fact Section */
+.fun-fact-card {
+    background: rgba(79, 70, 229, 0.1);
+    border: 1px solid rgba(79, 70, 229, 0.2);
+    border-radius: 12px;
+    padding: 20px;
+    margin-top: 20px;
+    backdrop-filter: blur(10px);
+    width: 100%;
+    max-width: 100%;
+}
+
+.fun-fact-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 8px 0;
+    gap: 10px;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .profile-row {
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .profile-value {
+        text-align: left;
+    }
+
+    .stats-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .tech-badges {
+        justify-content: center;
+    }
+}
