@@ -16,27 +16,27 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👤 About Me
 
 <div style="background: #d1d1d1; border: 1px solid #adadad; border-radius: 12px; padding: 20px; margin-top: 20px; width: 100%; max-width: 100%;">
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid #adadad; gap: 10px;">
-<span style="color: #333333; font-weight: 600; font-size: 1rem;">Name:</span>
+<span style="color: #333333; font-weight: 600; font-size: 1rem;">👤 Name:</span>
 <span style="color: #000000; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Vinay Mahadew</span>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid #adadad; gap: 10px;">
-<span style="color: #333333; font-weight: 600; font-size: 1rem;">Role:</span>
-<span style="color: #000000; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Software Engineering Student</span>
+<span style="color: #333333; font-weight: 600; font-size: 1rem;">💼 Role:</span>
+<span style="color: #000000; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Software Engineer/Architect</span>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid #adadad; gap: 10px;">
-<span style="color: #333333; font-weight: 600; font-size: 1rem;">Location:</span>
+<span style="color: #333333; font-weight: 600; font-size: 1rem;">📍 Location:</span>
 <span style="color: #000000; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">Netherlands</span>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid #adadad; gap: 10px;">
-<span style="color: #333333; font-weight: 600; font-size: 1rem;">Education:</span>
+<span style="color: #333333; font-weight: 600; font-size: 1rem;">🎓 Education:</span>
 <span style="color: #000000; font-weight: 700; font-size: 1rem; font-family: 'Courier New', monospace; text-align: right; flex-shrink: 1; word-break: break-all; min-width: 0; letter-spacing: 0.5px;">THUAS</span>
 </div>
 
@@ -44,27 +44,8 @@
 
 ---
 
-## 📊 GitHub Statistics
 
-<div style="background: #d1d1d1; border: 1px solid #adadad; border-radius: 12px; padding: 20px; margin-top: 20px; width: 100%; max-width: 100%;" align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimah&show_icons=true&theme=default&hide_border=true&bg_color=d9d9d9&title_color=2E86AB&text_color=333333&icon_color=2E86AB)
-
-</div>
-
----
-
-## 💻 Programming Languages
-
-<div style="background: #d1d1d1; border: 1px solid #adadad; border-radius: 12px; padding: 20px; margin-top: 20px; width: 100%; max-width: 100%;" align="center">
-
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimah&layout=compact&theme=default&hide_border=true&bg_color=d9d9d9&title_color=2E86AB&text_color=333333&langs_count=10)
-
-</div>
-
----
-
-## 🎲 Fun Fact
+## 💭 Fun Fact
 
 <div style="background: #d1d1d1; border: 1px solid #adadad; border-radius: 12px; padding: 20px; margin-top: 20px; width: 100%; max-width: 100%;">
 
